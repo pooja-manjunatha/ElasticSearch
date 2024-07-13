@@ -1,0 +1,1 @@
+This repository contains the hands-on project code from my Elasticsearch and Kibana course. The project demonstrates how to deploy, structure, query, and visualize data using the Elastic Stack. Enjoy exploring the code and feel free to contribute!
